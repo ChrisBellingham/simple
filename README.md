@@ -1,3 +1,3 @@
 # simple
-experimenting with IntelliJ plugin.
+experimenting with IntelliJ's GitHub plugin.
 
