@@ -8,6 +8,6 @@ package com.nbc.genesis.simple;
 public class Hello {
 
     public static void sayHello() {
-        System.out.println("Hello world");
+        System.out.println("Hello World");
     }
 }
