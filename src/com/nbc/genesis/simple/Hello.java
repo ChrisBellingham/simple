@@ -10,6 +10,6 @@ public class Hello {
     public static void sayHello() {
         System.out.println("Hello World");
         
-        System.out.println("So long folks and thanks for all the salmon");
+        System.out.println("That's all folks. Thanks for all the salmon");
     }
 }
