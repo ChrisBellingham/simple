@@ -7,9 +7,7 @@ package com.nbc.genesis.simple;
  */
 public class Hello {
 
-    public static void sayHello() {
+    public static void speak() {
         System.out.println("Hello World");
-        
-        System.out.println("So long and thanks for all the salmon");
     }
 }
